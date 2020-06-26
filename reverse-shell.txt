@@ -1,4 +1,4 @@
-listening the a port using nc
+First listen a port using nc 
 nc -nlvp 8080
 
 
